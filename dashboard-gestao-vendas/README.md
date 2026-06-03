@@ -6,19 +6,19 @@ Projeto desenvolvido em Power BI para análise de indicadores comerciais e acomp
 
 ##  Dashboard Interativo
 
-👉 Clique abaixo para acessar o relatório no Power BI:
+Clique abaixo para acessar o relatório no Power BI:
 
 ### 🔗 [Abrir Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODU5YzdmY2ItYTg2ZS00ZGI4LWFkZTktMDcxM2JmODY0ZjFhIiwidCI6IjhlYjI5MjAxLWEyN2QtNDMwMi04NDczLWM5ODJlYjViZTkzNSJ9)
 
 ---
 
-## 📷 Preview do Dashboard
+## Preview do Dashboard
 
-<img width="100%" src="LINK_DA_IMAGEM_AQUI"/>
+<img width="https://github.com/vitoriaft/powerbi-data-analytics/blob/main/dashboard-gestao-vendas/PainelVendas.png"/>
 
 ---
 
-## 📌 Objetivo do Projeto
+## Objetivo do Projeto
 
 Desenvolver um dashboard para acompanhamento de vendas, faturamento e desempenho comercial, permitindo análises por loja, produto, período e forma de pagamento.
 
