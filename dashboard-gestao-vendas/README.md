@@ -14,7 +14,7 @@ Clique abaixo para acessar o relatório no Power BI:
 
 ## Preview do Dashboard
 
-<img width="https://github.com/vitoriaft/powerbi-data-analytics/blob/main/dashboard-gestao-vendas/PainelVendas.png"/>
+![Dashboard de Vendas](PainelVendas.png)
 
 ---
 
